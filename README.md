@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a double degree student between Uruguay and France, with specialisation in embedded systems, data science, signal processing and artificial intelligence at the French engineering school Télécom Paris (member of the Institut Polytechnique de Paris). As an Electrical Engineering student in Uruguay at the UDELAR Faculty of Engineering I acquired knowledge in math, physics, programming, analog electronics, digital electronics as well as in electric power systems.
+
+- 🌱 I’m currently specialisating in embedded systems, reliability and security, real time systems, IoT.
+
 <!--
 **bcaregnani/bcaregnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
